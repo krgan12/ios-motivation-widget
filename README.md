@@ -1,5 +1,5 @@
 # ios-motivation-widget
-An iOS widget that uses the same that uses the same API from: quotes-website-sage.vercel.app/ to display motivational quotes as widget application. 
+An iOS widget that uses the same that uses the same API from: quotes-website-sage.vercel.app/ to display motivational quotes as a widget application. 
 
 ## Features
 - Displays motivational quotes in a clean, minimal widget
